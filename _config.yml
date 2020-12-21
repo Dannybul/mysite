@@ -38,7 +38,7 @@ defaults:
   scope:
     path: ""
   values:
-    author: "Daniel Bulgarelli"
+    author: "Dan Bulgarelli"
     title: "joe"
 # Exclude from processing.
 # The following items will not be processed, by default.
