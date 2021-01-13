@@ -7,7 +7,7 @@ layout: home
 
 <h1>Me in 20 seconds</h1>
 
-<p>I'm a builder first and foremost. I love creating and improving things to be useful to others or improve the world. That's why I love building software.</p>
+<p>I'm a builder first and foremost. I love creating and improving things to be useful to others or to improve the world. That's why I love building software.</p>
 
 <p>In my past I have built an online distribution company, wrote 2 patents, worked with a startup to build a new way of donating, but now I am focused on building websites and applications.</p>
 
@@ -15,16 +15,13 @@ layout: home
 
 <h1>The Longer Story</h1>
 
-<h1>TODO add resume</h1>
-<p><b>View Resume <a>Here</a></b></p>
-
-Resume
+<p><b>View Resume <a href = "./Bulgarelli_Resume01-21.pdf"> here </a></b></p>
 
 <h3>Experience</h3>
 <h4>NASA project</h4>
 <a href = "https://dannybul.github.io/The-Nasa-Project/" target = "_blank"> Click to View </a>
 <p>I had so much fun working with Nasa’s API to build a fully responsive and dynamic website. This website was made in a group project in a website development class at Loyola University Chicago. Personally, I did most of the work on the image of the day page and the search archive page.</p>
-<p>The search archive page was exciting to work on because there were a lot of important components that needed to work together. Upon receiving user input and validating it, the website queried NASA’s api using asynchronous promises. Once the promise is fulfilled JavaScript dynamically builds a grid structure with the images from the response; it is styled similar to Pinterest. When our users are scrolling through the images, they might like to learn more about an image. If a user clicks on one of the images, it will enlarge and display information like the title, date, and summary.</p>
+<p>The search archive page was exciting to work on because there were a lot of important components that needed to work together. Upon receiving user input and validating it, the website queried NASA’s api using asynchronous promises. Once the promise is fulfilled, JavaScript dynamically builds a grid structure with the images from the response; it is styled similar to Pinterest. When our users are scrolling through the images, they might like to learn more about an image. If a user clicks on one of the images, it will enlarge and display information like the title, date, and summary.</p>
 <h4>Android development</h4>
 I wanted to learn more about Android development, so I decided to take a Udemy class online. It was an extremely well taught class and during the course of it I created a variety of applications. I programmed apps that play music, quiz users, show the weather in your current location, track the price of bitcoin, and message other users. This was a time consuming class, but I learned so much about development through the course of it.
 <h4>Bills</h4>
@@ -37,7 +34,7 @@ This project is my first independent React project. It is still in progress. I h
 
 <p>Another language that I have a lot of familiarity with is JavaScript. It’s a very flexible language that can be used in a variety of environments. I have used a lot of vanilla JavaScript in building web applications. I have also been using React for a web application recently. I definitely see a great deal of benefits using this technology, but it does add some complexity.</p>
 
-<p> I have worked with Python for a little bit. I'm by no means an expert, but I found it to be quite an easy language to pick up and use. I loved the financial technology packages, which I used a lot for one of my classes. You can do some pretty complex computations and graph them quite easily. I have also used it to create a betting aribtrage calculator that texts me whenever there is an opportunity for fun.</p>
+<p> I have worked with Python for a little bit. I'm by no means an expert, but I found it to be quite an easy language to pick up and use. I loved the financial technology packages, which I used a lot for one of my classes. You can do some pretty complex computations and graph them quite easily. I have also used it to create a betting aribtrage calculator. I use this in combination with a betting information api. If there is an opportunity on any of the betting sites, it will text me using Twilio's api.</p>
 
 <h3>Favorite books</h3>
 <p>Sapiens by Yuval Noah Harari is one of my favorite books because it changed my perspective completely in life. If the question “Why are humans so much more powerful than any other species” perplexes you, this is a great read. He does a terrific job of bringing you through the history of humanity. While I’m sure a lot of books do this, he is extraordinary in framing recent events in a historical context.</p>
